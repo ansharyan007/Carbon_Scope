@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528597463277",
+    "project_id": "ecolens-ai-18544",
+    "storage_bucket": "ecolens-ai-18544.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528597463277:android:93089eddf2b48ffc8e1ce4",
+        "android_client_info": {
+          "package_name": "com.example.carbon_scope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528597463277-b444pmh38221ueqb5qlnvcof8ltdr7el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqREGr0Wy4AqtBSfb3vtmdihzXtHveULA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528597463277-b444pmh38221ueqb5qlnvcof8ltdr7el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
